@@ -4,5 +4,8 @@
   "main": "server.js",
   "repository": "git@github.com:Dacrol/node-mountain-child.git",
   "author": "Dacrol (Jonas) <jonas.ahrens@gmail.com>",
-  "license": "NONE"
+  "license": "NONE",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
