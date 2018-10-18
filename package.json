@@ -1,0 +1,8 @@
+{
+  "name": "node-mountain-child",
+  "version": "0.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:Dacrol/node-mountain-child.git",
+  "author": "Dacrol (Jonas) <jonas.ahrens@gmail.com>",
+  "license": "NONE"
+}
