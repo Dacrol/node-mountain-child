@@ -1,1 +1,1 @@
-node-mountain-childLaptop
+Example child repo for node-mountain
