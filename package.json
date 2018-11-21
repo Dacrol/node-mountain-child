@@ -6,7 +6,8 @@
   "author": "Dacrol (Jonas) <jonas.ahrens@gmail.com>",
   "license": "NONE",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongoose": "^5.3.13"
   },
   "scripts": {
     "start": "node server.js"
