@@ -21,7 +21,7 @@ mongoose
 const Model = mongoose.model(
   'Mountain',
   new mongoose.Schema({
-    field: {
+    name: {
       type: String
     }
   })
